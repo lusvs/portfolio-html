@@ -3,4 +3,11 @@
     padding: 0;
     box-sizing: border-box;
     border: none;
+    text-decoration: none;
+}
+
+/* root - variavel de estilo */
+:root{
+    --bg--color: #282C33;
+    --color-white: #FFF
 }
